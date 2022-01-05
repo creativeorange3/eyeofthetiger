@@ -47,7 +47,7 @@ class Footer extends React.Component {
               <FooterSocial />
             </div>
             <div className="footer-bottom space-between text-xxs invert-order-desktop">
-              <div className="footer-copyright">&copy; 2021 Eye of the Tiger, all rights reserved</div>
+              <div className="footer-copyright">&copy; 2022 Eye of the Tiger, all rights reserved</div>
             </div>
           </div>
         </div>
